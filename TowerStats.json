@@ -53,7 +53,7 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
+                "Range": 14,
                 "Damage": 20,
                 "Cooldown": 0.05,
                 "Slow": 0,
@@ -61,7 +61,7 @@
             },
             {
                 "Price": 0,
-                "Range": 12,
+                "Range": 15,
                 "Damage": 50,
                 "Cooldown": 0.05,
                 "Slow": 0,
@@ -69,7 +69,7 @@
             },
             {
                 "Price": 0,
-                "Range": 14,
+                "Range": 20,
                 "Damage": 66,
                 "Cooldown": 0.05,
                 "Slow": 0,
@@ -77,9 +77,9 @@
             },
             {
                 "Price": 0,
-                "Range": 15,
+                "Range": 23,
                 "Damage": 77,
-                "Cooldown": 0.01,
+                "Cooldown": 0.0499,
                 "Slow": 0,
                 "SlowTime": 1
             }
