@@ -1333,7 +1333,7 @@
     "Patriot Freddy": {
         "Type": "Explosion",
         "Image": "rbxassetid://18326604996",
-        "Rarity": "Secret",
+        "Rarity": "Exclusive",
         "PlacePrice": 300,
         "Max": 4,
         "hitboxOffset": {
@@ -2036,7 +2036,7 @@
     "Witch Toy Chica": {
         "Type": "Poison",
         "Image": "rbxassetid://18363391561",
-        "Rarity": "Secret",
+        "Rarity": "Exclusive",
         "PlacePrice": 500,
         "Max": 3,
         "Passive": {"Name": "Lethal Potions", "Description": "Deals an extra 30% damage in poison"},
@@ -2539,7 +2539,7 @@
     "Tarnished Spring Bonnie": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://18777411515",
-        "Rarity": "Secret",
+        "Rarity": "Exclusive",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -5145,7 +5145,7 @@
 "Music Man": {
         "Type": "Cooldown Booster",
         "Image": "rbxassetid://77906930997624",
-        "Rarity": "Secret",
+        "Rarity": "Exclusive",
         "PlacePrice": 1000,
         "Offset": 0,
         "Max": 3,
@@ -9206,7 +9206,7 @@
     "Sunshine": {
         "Type": "AOE Burn",
         "Image": "rbxassetid://73088362644228",
-        "Rarity": "Secret",
+        "Rarity": "Exclusive",
         "PlacePrice": 14000,
         "Offset": 0.5,
         "Max": 2,
@@ -9254,7 +9254,7 @@
     "Moondrop": {
         "Type": "AOE Stun",
         "Image": "rbxassetid://123157660320018",
-        "Rarity": "Nightmare",
+        "Rarity": "Exclusive",
         "PlacePrice": 6000,
         "Offset": 0.5,
         "Max": 2,
@@ -9302,7 +9302,7 @@
     "DJ Music Man": {
         "Type": "Cooldown + Range Boost",
         "Image": "rbxassetid://92862090905850",
-        "Rarity": "Secret",
+        "Rarity": "Exclusive",
         "PlacePrice": 1000,
         "Offset": 1,
         "Max": 1,
@@ -9390,7 +9390,7 @@
     "Wet Floor Bot": {
         "Type": "AOE + Cooldown Boost",
         "Image": "rbxassetid://127516376865863",
-        "Rarity": "Secret",
+        "Rarity": "Exclusive",
         "PlacePrice": 400,
         "Offset": -1.75,
         "Max": 3,
@@ -9435,7 +9435,7 @@
     "Stardrop": {
         "Type": "Pierce + Passive",
         "Image": "rbxassetid://107273207289047",
-        "Rarity": "Nightmare",
+        "Rarity": "Exclusive",
         "PlacePrice": 18000,
         "Offset": 0,
         "Max": 2,
@@ -9613,7 +9613,7 @@
     "Shadow of Afton": {
         "Type": "Cone AOE + Passive",
         "Image": "rbxassetid://78940990099734",
-        "Rarity": "Nightmare",
+        "Rarity": "Exclusive",
         "PlacePrice": 14500,
         "Offset": 0,
         "Max": 2,
