@@ -52,36 +52,36 @@
         },
         "Upgrades": [
             {
-                "Price": 0,
+                "Price": 1,
                 "Range": 14,
                 "Damage": 20,
                 "Cooldown": 0.05,
-                "Slow": 0,
+                "Slow": 0.1,
                 "SlowTime": 0.5
             },
             {
-                "Price": 0,
+                "Price": 1,
                 "Range": 15,
                 "Damage": 50,
                 "Cooldown": 0.05,
-                "Slow": 0,
+                "Slow": 0.1,
                 "SlowTime": 0.5
             },
             {
-                "Price": 0,
+                "Price": 2,
                 "Range": 20,
                 "Damage": 66,
                 "Cooldown": 0.05,
-                "Slow": 0,
+                "Slow": 0.1,
                 "SlowTime": 0.5
             },
             {
-                "Price": 0,
+                "Price": 3,
                 "Range": 23,
                 "Damage": 77,
-                "Cooldown": 0.0499,
-                "Slow": 0,
-                "SlowTime": 1
+                "Cooldown": 0.03,
+                "Slow": 0.01,
+                "SlowTime": 0.5
             }
         ]
     },
