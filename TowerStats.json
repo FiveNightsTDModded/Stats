@@ -2700,8 +2700,8 @@
     "Golden Scott": {
         "Type": "Splash",
         "Image": "rbxassetid://18864498819",
-        "Rarity": "Apex",
-        "PlacePrice": 5000,
+        "Rarity": "Golden",
+        "PlacePrice": 10000,
         "Offset": 1.25,
         "Max": 1,
         "hitboxOffset": {
