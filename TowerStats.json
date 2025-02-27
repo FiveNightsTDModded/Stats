@@ -221,6 +221,7 @@
     "Golden Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://122900325956474",
+        "Passive": {"Name": "Golden Slow", "Description": "Slows enemies by 70%"},
         "Rarity": "Golden",
         "PlacePrice": 15500,
         "Max": 2,
@@ -235,25 +236,33 @@
                 "Price": 0,
                 "Range": 18,
                 "Damage": 30,
-                "Cooldown": 0.03
+                "Cooldown": 0.03,
+                "Slow": 0.3,
+                "SlowTime": 0.5
             },
             {
                 "Price": 15000,
                 "Range": 20,
                 "Damage": 45,
-                "Cooldown": 0.03
+                "Cooldown": 0.03,
+                "Slow": 0.3,
+                "SlowTime": 0.6
             },
             {
                 "Price": 25000,
                 "Range": 23,
                 "Damage": 60,
-                "Cooldown": 0.03
+                "Cooldown": 0.03,
+                "Slow": 0.3,
+                "SlowTime": 0.7
             },
             {
                 "Price": 35000,
                 "Range": 26,
                 "Damage": 75,
-                "Cooldown": 0.03
+                "Cooldown": 0.03,
+                "Slow": 0.3,
+                "SlowTime": 1
             }
         ]
     },
