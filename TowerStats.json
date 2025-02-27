@@ -219,12 +219,12 @@
         ]
     },
     "Golden Bonnie": {
-        "Type": "Continuous",
+        "Type": "Continuous Splash",
         "Image": "rbxassetid://122900325956474",
         "Passive": {"Name": "Golden Slow", "Description": "Slows enemies by 70%"},
         "Rarity": "Golden",
         "PlacePrice": 15500,
-        "Max": 2,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
