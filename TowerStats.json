@@ -1357,7 +1357,7 @@
     "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
-        "Rarity": "Secret",
+        "Rarity": "Exclusive",
         "PlacePrice": 800,
         "Max": 3,
         "hitboxOffset": {
