@@ -221,9 +221,9 @@
     "Golden Bonnie": {
         "Type": "Continuous Splash",
         "Image": "rbxassetid://122900325956474",
-        "Passive": {"Name": "Golden Slow", "Description": "Slows enemies by 70%"},
+        "Passive": {"Name": "Golden Slowing Laser", "Description": "Slows enemies by 70%"},
         "Rarity": "Golden",
-        "PlacePrice": 15500,
+        "PlacePrice": 15000,
         "Max": 4,
         "hitboxOffset": {
             "X": 0,
@@ -263,7 +263,15 @@
                 "Cooldown": 0.03,
                 "Slow": 0.3,
                 "SlowTime": 1
-            }
+            },
+            {
+                "Price": 50000,
+                "Range": 28,
+                "Damage": 100,
+                "Cooldown": 0.028,
+                "Slow": 0.3,
+                "SlowTime": 1.2
+            },
         ]
     },
     "Withered Chica": {
