@@ -2697,6 +2697,58 @@
             }
         ]
     },
+    "Golden Scott": {
+        "Type": "Splash",
+        "Image": "rbxassetid://18864498819",
+        "Rarity": "Apex",
+        "PlacePrice": 5000,
+        "Offset": 1.25,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 2000,
+                "Cooldown": 1.5
+            },
+
+            {
+                "Price": 10000,
+                "Range": 28,
+                "Damage": 3200,
+                "Cooldown": 1.4
+            },
+            {
+                "Price": 15000,
+                "Range": 31,
+                "Damage": 4400,
+                "Cooldown": 1.3
+            },
+            {
+                "Price": 20000,
+                "Range": 34,
+                "Damage": 5600,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 25000,
+                "Range": 37,
+                "Damage": 6800,
+                "Cooldown": 1.1
+            },
+            {
+                "Price": 30000,
+                "Range": 45,
+                "Damage": 8000,
+                "Cooldown": 1
+            }
+        ]
+    },
     "Circuit Breaker Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18886487842",
