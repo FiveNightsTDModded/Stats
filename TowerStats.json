@@ -43,6 +43,7 @@
         "Image": "rbxassetid://16620053009",
         "Rarity": "Admin",
         "PlacePrice": 0,
+        "Passive": {"Name": "Big Slow", "Description": "Slows enemies in range by a lot."},
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -2647,7 +2648,7 @@
     "Scott": {
         "Type": "Splash",
         "Image": "rbxassetid://18864498819",
-        "Rarity": "Secret",
+        "Rarity": "Exclusive",
         "PlacePrice": 5000,
         "Offset": 1.25,
         "Max": 1,
@@ -5380,7 +5381,7 @@
     "Animdude": {
         "Type": "Splash",
         "Image": "rbxassetid://77112261441145",
-        "Rarity": "Secret",
+        "Rarity": "Exclusive",
         "PlacePrice": 5000,
         "Offset": 1.25,
         "Max": 1,
