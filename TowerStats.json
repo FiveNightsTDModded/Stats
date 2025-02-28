@@ -5493,7 +5493,7 @@
         "PlacePrice": 5000,
         "Offset": 1.25,
         "Max": 1,
-        "Passive": {"Name": "Recursive Volley", "Description": "Attacks strike twice"},
+        "Passive": {"Name": "Recursive Volley (NOT FINISHED)", "Description": "Attacks strike twice"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
