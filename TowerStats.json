@@ -43,7 +43,7 @@
         "Image": "rbxassetid://16620053009",
         "Rarity": "Admin",
         "PlacePrice": 0,
-        "Passive": {"Name": "Big Slow", "Description": "Slows enemies in range by a lot."},
+        "Passive": {"Name": "Large Slow", "Description": "Slows enemies in range by a lot."},
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
