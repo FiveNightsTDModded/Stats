@@ -4912,7 +4912,7 @@
             {
                 "Price": 50000,
                 "Range": 40,
-                "Damage": 42000,
+                "Damage": 4200,
                 "Cooldown": 0.1,
                 "Bleed": 0,
                 "BleedTime": 1
@@ -5860,19 +5860,19 @@
             {
                 "Price": 22222,
                 "Range": 30,
-                "Damage": 5000,
+                "Damage": 2500,
                 "Cooldown": 0.1
             },
             {
                 "Price": 33333,
                 "Range": 40,
-                "Damage": 10000,
+                "Damage": 3500,
                 "Cooldown": 0.1
             },
             {
                 "Price": 44444,
                 "Range": 69,
-                "Damage": 15000,
+                "Damage": 5000,
                 "Cooldown": 0.1
             }
         ]
