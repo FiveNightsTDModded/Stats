@@ -5789,6 +5789,46 @@
             }
         ]
     },
+    "Gold Man Consequences": {
+        "Type": "AOE + Passive",
+        "Image": "rbxassetid://95479691284429",
+        "Rarity": "Golden Apex",
+        "PlacePrice": 11340,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "Golden Hook and Line", "Description": "Reels in an enemy every few seconds, erasing them completely. Deals x150 damage to bosses."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 2000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 22222,
+                "Range": 30,
+                "Damage": 5000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 33333,
+                "Range": 40,
+                "Damage": 10000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 44444,
+                "Range": 69,
+                "Damage": 15000,
+                "Cooldown": 0.1
+            }
+        ]
+    },
 
 
      "Fazbear Mafia": {
