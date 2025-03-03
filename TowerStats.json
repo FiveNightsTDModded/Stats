@@ -4216,7 +4216,7 @@
         "Type": "Cone AOE",
         "Image": "rbxassetid://109403176448175",
         "Rarity": "Golden",
-        "PlacePrice": 14500,
+        "PlacePrice": 35000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
