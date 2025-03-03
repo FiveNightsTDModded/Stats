@@ -4871,6 +4871,54 @@
             }
         ]
     },
+"Astral Gold": {
+        "Type": "Continuous Splash",
+        "Image": "rbxassetid://128604882971057",
+        "Rarity": "Golden Apex",
+        "PlacePrice": 35000,
+        "Offset": 0.5,
+        "Max": 2,
+        "Passive": {"Name": "Nuclear Fission", "Description": "Completely halts regen on targeted enemies"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 34,
+                "Damage": 2000,
+                "Cooldown": 0.1,
+                "Bleed": 0,
+                "BleedTime": 1
+            },
+            {
+                "Price": 35000,
+                "Range": 36,
+                "Damage": 3000,
+                "Cooldown": 0.1,
+                "Bleed": 0,
+                "BleedTime": 1
+            },
+            {
+                "Price": 40000,
+                "Range": 38,
+                "Damage": 3500,
+                "Cooldown": 0.1,
+                "Bleed": 0,
+                "BleedTime": 1
+            },
+            {
+                "Price": 50000,
+                "Range": 40,
+                "Damage": 42000,
+                "Cooldown": 0.1,
+                "Bleed": 0,
+                "BleedTime": 1
+            }
+        ]
+    },
 
 "Phone Guy": {
         "Type": "AOE DMG + Slow",
