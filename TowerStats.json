@@ -4873,7 +4873,7 @@
     },
 "Astral Gold": {
         "Type": "Continuous Splash",
-        "Image": "rbxassetid://128604882971057",
+        "Image": "rbxassetid://130057055448079",
         "Rarity": "Golden Apex",
         "PlacePrice": 35000,
         "Offset": 0.5,
@@ -5839,7 +5839,7 @@
     },
     "Gold Man Consequences": {
         "Type": "AOE + Passive",
-        "Image": "rbxassetid://95479691284429",
+        "Image": "rbxassetid://71575846000003",
         "Rarity": "Golden Apex",
         "PlacePrice": 11340,
         "Offset": 0,
@@ -5872,7 +5872,7 @@
             {
                 "Price": 44444,
                 "Range": 45,
-                "Damage": 5000,
+                "Damage": 15000,
                 "Cooldown": 0.1
             }
         ]
