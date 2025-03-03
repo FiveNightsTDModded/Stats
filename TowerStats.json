@@ -5358,6 +5358,58 @@
             }
         ]
     },
+"Golden Music Man": {
+        "Type": "Damage, Range + Cooldown Booster",
+        "Image": "rbxassetid://77906930997624",
+        "Rarity": "Exclusive",
+        "PlacePrice": 6000,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+         "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.9,
+                "DamageBoost": 1.15,
+                "RangeBoost": 1.15,
+            },
+            {
+                "Price": 1200,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.8,
+                "DamageBoost": 1.25,
+                "RangeBoost": 1.25,
+            },
+            {
+                "Price": 1600,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.75,
+                "DamageBoost": 1.35,
+                "RangeBoost": 1.3,
+            },
+            {
+                "Price": 2000,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.7,
+                "DamageBoost": 1.5,
+                "RangeBoost": 1.5,
+            }
+        ]
+    },
 "Bonnet": {
         "Type": "Splash",
         "Image": "rbxassetid://110847799109792",
@@ -9611,7 +9663,6 @@
         "PlacePrice": 18000,
         "Offset": 0,
         "Max": 2,
-        "NoEnemyAttack": true,
         "Passive": {"Name": "Starkindred", "Description": "Grants +35% range to all nearby units (+70% shiny). Stardrop deals +75% damage if either Moondrop or Sunshine are on the same team."},
         "hitboxOffset": {
             "X": 0,
@@ -10484,7 +10535,6 @@
         "Offset": -0.4,
         "Max": 2,
         "Passive": {"Name": "Lovestruck", "Description": "All puppets on the same team deal +50% damage including herself. +35% Range to all units (70% Shiny)."},
-        "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
