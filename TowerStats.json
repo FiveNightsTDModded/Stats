@@ -4878,7 +4878,7 @@
         "PlacePrice": 35000,
         "Offset": 0.5,
         "Max": 2,
-        "Passive": {"Name": "Nuclear Fission", "Description": "Completely halts regen on targeted enemies"},
+        "Passive": {"Name": "Golden Nuclear Fission", "Description": "Completely halts regen on targeted enemies"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -5839,7 +5839,7 @@
     },
     "Gold Man Consequences": {
         "Type": "AOE + Passive",
-        "Image": "rbxassetid://71575846000003",
+        "Image": "rbxassetid://79201392340451",
         "Rarity": "Golden Apex",
         "PlacePrice": 11340,
         "Offset": 0,
