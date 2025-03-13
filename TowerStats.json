@@ -1958,7 +1958,7 @@
     "Spring Bonnie": {
         "Type": "Support",
         "Image": "rbxassetid://18364574191",
-        "Rarity": "Exclusve",
+        "Rarity": "Exclusive",
         "PlacePrice": 1000,
         "Max": 2,
         "hitboxOffset": {
