@@ -9603,7 +9603,7 @@
     },
 
     "Moondrop": {
-        "Type": "AOE Stun",
+        "Type": "Splash Stun",
         "Image": "rbxassetid://123157660320018",
         "Rarity": "Exclusive",
         "PlacePrice": 6000,
