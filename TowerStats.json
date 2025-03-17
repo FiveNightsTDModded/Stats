@@ -5837,6 +5837,46 @@
             }
         ]
     },
+    "Cosmic Man Consequences": {
+        "Type": "AOE + Passive",
+        "Image": "rbxassetid://95479691284429",
+        "Rarity": "Cosmic",
+        "PlacePrice": 999999,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "Cosmic Power", "Description": "Reels in an enemy every few seconds, erasing them completely. Deals x99 damage to bosses."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 50000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 2222222,
+                "Range": 28,
+                "Damage": 77777,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 3333333,
+                "Range": 32,
+                "Damage": 100000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 4444444,
+                "Range": 35,
+                "Damage": 300000,
+                "Cooldown": 0.1
+            }
+        ]
+    },
     "Gold Man Consequences": {
         "Type": "AOE + Passive",
         "Image": "rbxassetid://79201392340451",
