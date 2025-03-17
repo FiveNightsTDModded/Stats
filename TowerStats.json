@@ -9692,7 +9692,7 @@
         "Type": "AOE Stun",
         "Image": "rbxassetid://138299567447332",
         "Passive": {"Name": "Diamond Stun", "Description": "Stuns enemies by the cooldown divided by 1.2"},
-        "Rarity": "Diamond",
+        "Rarity": "Diamond Nightmare",
         "PlacePrice": 6000,
         "Offset": 0.5,
         "Max": 2,
@@ -9966,7 +9966,7 @@
     "Diamond Coffee": {
         "Type": "Damage + Cooldown Boost",
         "Image": "rbxassetid://110202773866727",
-        "Rarity": "Forgotten",
+        "Rarity": "Diamond Forgotten",
         "PlacePrice": 400,
         "Offset": -0.3,
         "Max": 8,
