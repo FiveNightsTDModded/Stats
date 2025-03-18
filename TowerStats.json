@@ -222,7 +222,7 @@
         "Type": "Continuous Splash",
         "Image": "rbxassetid://122900325956474",
         "Passive": {"Name": "Golden Slowing Laser", "Description": "Slows enemies by 70%"},
-        "Rarity": "Golden",
+        "Rarity": "Golden Uncommon",
         "PlacePrice": 15000,
         "Max": 4,
         "hitboxOffset": {
@@ -2756,7 +2756,7 @@
     "Golden Scott": {
         "Type": "Splash",
         "Image": "rbxassetid://101796108607102",
-        "Rarity": "Golden",
+        "Rarity": "Golden Rare",
         "PlacePrice": 10000,
         "Offset": 1.25,
         "Max": 1,
@@ -4215,7 +4215,7 @@
    "Limitless Gold": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://109403176448175",
-        "Rarity": "Golden",
+        "Rarity": "Golden Epic",
         "PlacePrice": 35000,
         "Offset": 0,
         "Max": 3,
@@ -5448,7 +5448,7 @@
 "Golden Music Man": {
         "Type": "Damage, Range + Cooldown Booster",
         "Image": "rbxassetid://77906930997624",
-        "Rarity": "Golden",
+        "Rarity": "Golden Secret",
         "PlacePrice": 6000,
         "Offset": 0,
         "Max": 3,
