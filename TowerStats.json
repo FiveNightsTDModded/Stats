@@ -380,6 +380,45 @@
             }
         ]
     },
+    "Mangle": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://16781119726",
+        "Rarity": "Diamond Mythic",
+        "PlacePrice": 12500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.2,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 200,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 20000,
+                "Range": 17,
+                "Damage": 300,
+                "Cooldown": 1.25
+            },
+            {
+                "Price": 25000,
+                "Range": 20,
+                "Damage": 400,
+                "Cooldown": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 500,
+                "Cooldown": 0.75
+            }
+        ]
+    },
     "Diamond Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",
