@@ -412,6 +412,33 @@
                 "CooldownBoost": 0.6,
                 "DamageBoost": 1.6,
                 "RangeBoost": 1.75
+            },
+            {
+                "Price": 800,
+                "Range": 30,
+                "Damage": 0,
+                "Cooldown": 0.5,
+                "CooldownBoost": 0.55,
+                "DamageBoost": 1.75,
+                "RangeBoost": 1.8
+            },
+            {
+                "Price": 900,
+                "Range": 30,
+                "Damage": 0,
+                "Cooldown": 0.5,
+                "CooldownBoost": 0.5,
+                "DamageBoost": 1.9,
+                "RangeBoost": 1.9
+            },
+            {
+                "Price": 900,
+                "Range": 30,
+                "Damage": 0,
+                "Cooldown": 0.5,
+                "CooldownBoost": 0.47,
+                "DamageBoost": 2,
+                "RangeBoost": 2
             }
         ]
     },
