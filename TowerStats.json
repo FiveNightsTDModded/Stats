@@ -91,6 +91,7 @@
         "Image": "rbxassetid://17270065249",
         "Rarity": "Diamond Secret",
         "PlacePrice": 15000,
+        "Passive": {"Name": "Diamond Shadowy Bears", "Description": "Anti Regeneration for all enemies in range."},
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
