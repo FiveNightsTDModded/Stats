@@ -272,31 +272,45 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 100,
+                "Range": 1,
+                "Damage": 0,
                 "Cooldown": 4,
                 "Farm": 400
             },
             {
                 "Price": 1500,
-                "Range": 15,
-                "Damage": 100,
+                "Range": 1,
+                "Damage": 0,
                 "Cooldown": 4,
                 "Farm": 800
             },
             {
                 "Price": 2000,
-                "Range": 15,
-                "Damage": 100,
+                "Range": 1,
+                "Damage": 0,
                 "Cooldown": 4,
                 "Farm": 1200
             },
             {
                 "Price": 3000,
-                "Range": 15,
-                "Damage": 100,
+                "Range": 1,
+                "Damage": 0,
                 "Cooldown": 4,
                 "Farm": 2500
+            },
+            {
+                "Price": 6000,
+                "Range": 1,
+                "Damage": 0,
+                "Cooldown": 3,
+                "Farm": 5000
+            },
+            {
+                "Price": 9000,
+                "Range": 1,
+                "Damage": 0,
+                "Cooldown": 2,
+                "Farm": 10000
             }
         ]
     },
