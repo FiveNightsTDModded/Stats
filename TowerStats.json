@@ -91,7 +91,7 @@
         "Image": "rbxassetid://17270065249",
         "Rarity": "Diamond Secret",
         "PlacePrice": 15000,
-        "Passive": {"Name": "Diamond Shadowy Bears", "Description": "Anti Regeneration for all enemies in range."},
+        "Passive": {"Name": "Diamond Shadowy Bears", "Description": "Completely halts regen for all enemies in range."},
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -141,7 +141,7 @@
         "Type": "AOE",
         "Image": "rbxassetid://16781197179",
         "Rarity": "Diamond Apex",
-        "Passive": {"Name": "Diamond Shadows", "Description": "Anti Regeneration for all enemies in range (More Soon)"},
+        "Passive": {"Name": "Diamond Shadows", "Description": "Completely halts regen for all enemies in range (More Soon)"},
         "PlacePrice": 35000,
         "Max": 2,
         "hitboxOffset": {
