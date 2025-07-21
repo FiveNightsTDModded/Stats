@@ -107,20 +107,32 @@
             {
                 "Price": 25000,
                 "Range": 14,
-                "Damage": 85,
+                "Damage": 155,
                 "Cooldown": 0.05
             },
             {
                 "Price": 30000,
                 "Range": 16,
-                "Damage": 90,
+                "Damage": 250,
                 "Cooldown": 0.05
             },
             {
                 "Price": 50000,
                 "Range": 18,
-                "Damage": 120,
+                "Damage": 450,
                 "Cooldown": 0.03
+            },
+            {
+                "Price": 75000,
+                "Range": 25,
+                "Damage": 650,
+                "Cooldown": 0.03
+            },
+            {
+                "Price": 90000,
+                "Range": 35,
+                "Damage": 950,
+                "Cooldown": 0.025
             }
         ]
     },
@@ -354,7 +366,7 @@
     "Diamond Moondrop": {
         "Type": "AOE Stun",
         "Image": "rbxassetid://138299567447332",
-        "Passive": {"Name": "Diamond Stun", "Description": "Stuns enemies by the cooldown divided by 1.15"},
+        "Passive": {"Name": "Diamond Stun", "Description": "Stuns enemies by the cooldown divided by 1.25"},
         "Rarity": "Diamond Nightmare",
         "PlacePrice": 6000,
         "Offset": 0.5,
