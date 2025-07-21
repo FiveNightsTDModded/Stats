@@ -194,7 +194,7 @@
             {
                 "Price": 525000000,
                 "Range": 150,
-                "Damage": 99999,
+                "Damage": 50000,
                 "Cooldown": 0.01
             }
         ]
