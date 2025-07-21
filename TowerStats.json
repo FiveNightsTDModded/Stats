@@ -432,7 +432,7 @@
                 "RangeBoost": 1.9
             },
             {
-                "Price": 900,
+                "Price": 1000,
                 "Range": 30,
                 "Damage": 0,
                 "Cooldown": 0.5,
