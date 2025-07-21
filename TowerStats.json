@@ -55,7 +55,7 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 200,
+                "Damage": 600,
                 "Cooldown": 3.5,
                 "Poison": 30,
                 "PoisonLength": 3
@@ -63,7 +63,7 @@
             {
                 "Price": 800,
                 "Range": 17,
-                "Damage": 225,
+                "Damage": 1100,
                 "Cooldown": 3,
                 "Poison": 40,
                 "PoisonLength": 3
@@ -71,7 +71,7 @@
             {
                 "Price": 1000,
                 "Range": 20,
-                "Damage": 250,
+                "Damage": 1500,
                 "Cooldown": 3,
                 "Poison": 50,
                 "PoisonLength": 3
@@ -79,7 +79,7 @@
             {
                 "Price": 1200,
                 "Range": 25,
-                "Damage": 300,
+                "Damage": 1850,
                 "Cooldown": 2,
                 "Poison": 60,
                 "PoisonLength": 3
@@ -234,26 +234,26 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 55,
+                "Damage": 150,
                 "Cooldown": 0.05
             },
             {
                 "Price": 30000,
                 "Range": 30,
-                "Damage": 65,
-                "Cooldown": 0.05
+                "Damage": 255,
+                "Cooldown": 0.04
             },
             {
                 "Price": 40000,
                 "Range": 35,
-                "Damage": 75,
-                "Cooldown": 0.05
+                "Damage": 355,
+                "Cooldown": 0.03
             },
             {
                 "Price": 50000,
                 "Range": 55,
-                "Damage": 85,
-                "Cooldown": 0.04
+                "Damage": 500,
+                "Cooldown": 0.02
             }
         ]
     },
@@ -303,7 +303,7 @@
     "Diamond Moondrop": {
         "Type": "AOE Stun",
         "Image": "rbxassetid://138299567447332",
-        "Passive": {"Name": "Diamond Stun", "Description": "Stuns enemies by the cooldown divided by 1.1"},
+        "Passive": {"Name": "Diamond Stun", "Description": "Stuns enemies by the cooldown divided by 1.15"},
         "Rarity": "Diamond Nightmare",
         "PlacePrice": 6000,
         "Offset": 0.5,
