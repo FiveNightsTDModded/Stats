@@ -128,7 +128,8 @@
         "Type": "AOE",
         "Image": "rbxassetid://16781197179",
         "Rarity": "Diamond Apex",
-        "PlacePrice": 25000,
+        "Passive": {"Name": "Diamond Shadows", "Description": "Anti Regeneration for all enemies in range (More Soon)"},
+        "PlacePrice": 35000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -185,7 +186,7 @@
                 "Cooldown": 0.017
             },
             {
-                "Price": 55000000,
+                "Price": 52500000,
                 "Range": 150,
                 "Damage": 45000,
                 "Cooldown": 0.01
