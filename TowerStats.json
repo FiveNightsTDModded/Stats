@@ -265,6 +265,14 @@
                 "Cooldown": 0.025,
                 "Slow": 0.15,
                 "SlowTime": 1.2
+            },
+            {
+                "Price": 100000,
+                "Range": 32,
+                "Damage": 250,
+                "Cooldown": 0.025,
+                "Slow": 0.15,
+                "SlowTime": 1.3
             }
         ]
     },
