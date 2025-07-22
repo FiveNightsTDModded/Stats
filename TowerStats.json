@@ -311,7 +311,7 @@
         "Type": "Farm",
         "Image": "rbxassetid://18363529003",
         "Rarity": "Diamond Epic",
-        "PlacePrice": 1500,
+        "PlacePrice": 4500,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -328,35 +328,35 @@
                 "Farm": 400
             },
             {
-                "Price": 1500,
+                "Price": 4500,
                 "Range": 1,
                 "Damage": 0,
                 "Cooldown": 4,
                 "Farm": 800
             },
             {
-                "Price": 2000,
+                "Price": 5000,
                 "Range": 1,
                 "Damage": 0,
                 "Cooldown": 4,
                 "Farm": 1200
             },
             {
-                "Price": 3000,
+                "Price": 6000,
                 "Range": 1,
                 "Damage": 0,
                 "Cooldown": 4,
                 "Farm": 2500
             },
             {
-                "Price": 6000,
+                "Price": 7000,
                 "Range": 1,
                 "Damage": 0,
                 "Cooldown": 3,
                 "Farm": 5000
             },
             {
-                "Price": 9000,
+                "Price": 15000,
                 "Range": 1,
                 "Damage": 0,
                 "Cooldown": 3,
